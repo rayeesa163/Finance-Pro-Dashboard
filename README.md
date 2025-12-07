@@ -5,6 +5,7 @@ Build your own real‑time finance monitoring dashboard with pluggable data sour
 > **Stack**: Next.js 14 (App Router) • TypeScript • Tailwind CSS • Zustand (state) • dnd-kit (drag & drop) • Recharts (charts) • Chart.js (optional) • Axios/Fetch • Vitest/RTL • ESLint/Prettier
 
 ---
+Deploy link : https://finance-pro-dashboard.vercel.app/
 
 ## ✨ Features
 
